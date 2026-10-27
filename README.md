@@ -10,7 +10,7 @@ dan menyediakan /health, /status, /metrics. Project latihan DevOps end-to-end.
 
 \## Milestone
 
-\- \[ ] M0 Git workflow (branch, PR, rebase, reflog)
+\- \[x] M0 Git workflow (branch, PR, rebase, reflog)
 
 \- \[ ] M1 Aplikasi, test, Dockerfile multi-stage, Compose
 
